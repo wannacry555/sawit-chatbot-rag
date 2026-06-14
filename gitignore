@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+
+.chromadb/
+chroma_db/
+vector_db/
+
+.streamlit/
+
+*.log
+
+.ipynb_checkpoints/
